@@ -1,5 +1,6 @@
 # PIT-Rats-Extension
-Extension of PIT-DSC project to add widget for data-blog website
+* Compilation of other graphs unused in the final project presentation.
+* Extension of PIT-DSC project to add widget for data blog website added in October 2022.
 
 ## Notes on the PIT-DSC-RATS
 [A separate account](https://github.com/PIT-DSC-RATS) created by ChrisAndrade2020 for the following 2 reasons:
