@@ -2,7 +2,7 @@
 Extension of PIT-DSC project to add widget for data-blog website
 
 ## Notes on the PIT-DSC-RATS
-This separate account was created by ChrisAndrade2020 for the following 2 reasons:
+[A separate account](https://github.com/PIT-DSC-RATS)created by ChrisAndrade2020 for the following 2 reasons:
 * Free Github Pages website to host data bold website on
 * Credit the whole team's efforts and not associate the site solely to ChrisAndrade2020
 
